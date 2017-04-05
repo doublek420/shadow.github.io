@@ -48,3 +48,5 @@ users:
   - name: princeton
     img: pu.png
     url: https://www.princeton.edu/~pmittal/
+
+theme: jekyll-theme-cayman
